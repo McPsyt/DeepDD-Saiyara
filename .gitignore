@@ -1,3 +1,6 @@
 *.parquet
 *.csv
 *.xlsx
+.idea/misc.xml
+.idea/DeepDD-Saiyara.iml
+.idea/DeepDD-Saiyara.iml
